@@ -10,10 +10,11 @@
 
 ### 🖥️ [Front-End Engineer](./frontend/)
 
-| #   | Project                                                         | Topics                               |
-| --- | --------------------------------------------------------------- | ------------------------------------ |
-| 01  | [Fashion Blog](./frontend/01-fashion-blog/)                     | HTML structure, links, images, lists |
-| 02  | [Wine Festival Schedule](./frontend/02-wine-festival-schedule/) | HTML tables, colspan, CSS styling    |
+| #   | Project                                                         | Topics                                           |
+| --- | --------------------------------------------------------------- | ------------------------------------------------ |
+| 01  | [Fashion Blog](./frontend/01-fashion-blog/)                     | HTML structure, links, images, lists             |
+| 02  | [Wine Festival Schedule](./frontend/02-wine-festival-schedule/) | HTML tables, colspan, CSS styling                |
+| 03  | [NYC Blog](./frontend/03-new-york-city-blog/)                   | Semantic HTML, media elements, anchor navigation |
 
 ---
 
